@@ -5,7 +5,7 @@
 
 ## Stack & Linguagens
 
-- **Linguagens principais:** HTML, CSS, Java Script  
+- **Linguagens principais:** HTML, CSS, Java Script, Python, Java.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapf-ht&layout=compact&theme=blue_navy)
 ---
